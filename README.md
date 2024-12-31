@@ -1,11 +1,5 @@
 <h1 align="center">hey there 👋</h1>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="40" alt="nestjs logo"  />
   <img width="12" />
