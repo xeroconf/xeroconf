@@ -1,5 +1,3 @@
-<h1 align="center">hi 👋</h1>
-
 <div align="left">
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="40" alt="nestjs logo"  />
   <img width="12" />
